@@ -31,6 +31,7 @@ writeRaster(salinidad_promedio, filename = ruta_geotiff, filetype = "GTiff", ove
 print(paste("GeoTIFF guardado en:", ruta_geotiff))
 
 #Resultado: [(https://github.com/GuillermoSan84/SalinidadModelo/blob/main/Salinidad.JPG?raw=true)
+Disponibilidad de capas en: http://uninmar.icmyl.unam.mx/geoportal#zoom=5&lat=-11320833.54&lon=2475744.62&layers=BOOT
 ## 🛠️ Código
 ```r
 library(terra)
