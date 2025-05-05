@@ -11,7 +11,6 @@ Promedio de salinidad mensual en la superficie del mar
 2. **Procesamiento en R**:  
    - Cálculo del **promedio mensual** usando el paquete `terra`.  
    - Exportación a GeoTIFF (`salinidad.tif`).
-   - # Instalar paquetes si no los tienes (ejecutar solo una vez)
 if (!require("terra")) install.packages("terra")
 
 # Cargar librerías
