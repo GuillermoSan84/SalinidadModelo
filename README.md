@@ -31,8 +31,7 @@ writeRaster(salinidad_promedio, filename = ruta_geotiff, filetype = "GTiff", ove
 # Mensaje de confirmación
 print(paste("GeoTIFF guardado en:", ruta_geotiff))
 
-#Resultado: https://github.com/GuillermoSan84/SalinidadModelo/blob/main/Salinidad.jpg?raw=true
-
+#Resultado: [(https://github.com/GuillermoSan84/VS_OceanMX/blob/main/VS_Oceanos.jpg?raw=true)
 ## 🛠️ Código
 ```r
 library(terra)
