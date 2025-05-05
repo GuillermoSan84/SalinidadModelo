@@ -1,5 +1,5 @@
 # SalinidadModelo
-Promedio de salinidad mensual en la superficie del mar
+Promedio de salinidad mensual en la superficie del mar a partir de datos de Copernicus y visulaización en un geoportal
 # Procesamiento de Salinidad Oceánica (Copernicus GLOBAL_MULTIYEAR_PHY_001_030)
 
 ## 📋 Métodos
